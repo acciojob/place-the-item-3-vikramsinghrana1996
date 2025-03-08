@@ -1,7 +1,7 @@
-#holder {
-  display: flex;
-  justify-content: space-evenly; /* Even spacing between items */
-  align-items: center; /* Align items vertically in the row */
-  flex-wrap: wrap; /* Moves items to the next row when needed */
-  width: 100%; /* Ensures it takes the full width */
+.holder {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
 }
