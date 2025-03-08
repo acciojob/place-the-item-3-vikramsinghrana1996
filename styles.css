@@ -4,4 +4,6 @@
   align-items: center;
   width: 100vw;
   height: 100vh;
+  flex-wrap: wrap; /* Moves extra items to the next row instead of squishing */
+  width: 100%; 
 }
